@@ -1,5 +1,5 @@
 
-describe "./calculator.rb" do
+describe "calculator.rb" do
   first_number = 1
   
 end
